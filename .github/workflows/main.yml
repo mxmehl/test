@@ -1,16 +1,11 @@
-name: CI
+name: REUSE Compliance Check
 
-on: [push]
+on: [push, pull_request]
 
 jobs:
-  build:
-
+  test:
     runs-on: ubuntu-latest
-
-    steps:
-    - uses: actions/checkout@v2
-    - name: REUSE Compliance check
+    steps: 
+    - uses: actions/checkout@master
+    - name: REUSE Compliance Check
       uses: fsfe/reuse-action@master
-      with:
-        cmd: lint
-        arg: '--include-submodules'
