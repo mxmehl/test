@@ -9,5 +9,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: REUSE Compliance
+    - name: REUSE Compliance Check
       uses: fsfe/reuse-action@v0.1
