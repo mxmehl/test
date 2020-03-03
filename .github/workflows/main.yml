@@ -12,5 +12,5 @@ jobs:
     - name: REUSE Compliance check
       uses: fsfe/reuse-action@v0.4
       with:
-        cmd: 'lint'
-        arg: '--include-submodules'
+        cmd: |
+          --include-submodules lint
