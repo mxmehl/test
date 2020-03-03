@@ -10,6 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: REUSE Compliance check
-      uses: fsfe/reuse-action@v0.3
+      uses: fsfe/reuse-action@v0.4
       with:
-        cmd: --include-submodules lint
+        cmd: 'lint'
+        arg: '--include-submodules'
