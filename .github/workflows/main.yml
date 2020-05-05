@@ -9,4 +9,6 @@ jobs:
     - uses: actions/checkout@master
     - name: REUSE Compliance Check
       uses: fsfe/reuse-action@master
+      with:
+        args: spdx
     
