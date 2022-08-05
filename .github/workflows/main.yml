@@ -7,9 +7,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - run: pwd
-    - run: ls -la
-    - run: git status
-    - run: git config -l
     - name: REUSE Compliance Check
       uses: fsfe/reuse-action@599e459d825e2e6304916b4f5433526ca743e194
