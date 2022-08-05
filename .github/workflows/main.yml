@@ -12,4 +12,4 @@ jobs:
     - run: git status
     - run: git config -l
     - name: REUSE Compliance Check
-      uses: fsfe/reuse-action@0df56e3504c58e77ee7f227898172feef62f54bc
+      uses: fsfe/reuse-action@1777a72445b7f2399970fb29c1858e8fc7478556
