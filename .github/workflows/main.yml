@@ -10,8 +10,8 @@ jobs:
     - name: REUSE Compliance Check
       uses: fsfe/reuse-action@35470086eefff9eaed82eb7eb97c073866fea21d
       with:
-        args: --include-submodules lint
+        args: spdx
     - name: REUSE Compliance Check
       uses: fsfe/reuse-action@35470086eefff9eaed82eb7eb97c073866fea21d
       with:
-        args: spdx
+        args: --include-submodules lint
