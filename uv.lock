@@ -315,7 +315,7 @@ wheels = [
 
 [[package]]
 name = "test"
-version = "0.2.1"
+version = "1.0.0"
 source = { virtual = "." }
 
 [package.dev-dependencies]
