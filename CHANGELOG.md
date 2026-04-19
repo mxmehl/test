@@ -1,5 +1,34 @@
 # Changelog
 
+## [2.0.0](https://github.com/mxmehl/test/compare/v1.0.1...v2.0.0) (2026-04-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking feature ([#17](https://github.com/mxmehl/test/issues/17))
+* breaking fix ([#16](https://github.com/mxmehl/test/issues/16))
+
+### 🚀 New Features
+
+* breaking feature ([#17](https://github.com/mxmehl/test/issues/17)) ([3f60f5e](https://github.com/mxmehl/test/commit/3f60f5e95c36fca4bfeb2da5d5a7b3ac381c26b6))
+
+
+### 🔥 Bug Fixes
+
+* breaking fix ([#16](https://github.com/mxmehl/test/issues/16)) ([90be9dc](https://github.com/mxmehl/test/commit/90be9dc49cebad2277ed7026a8ea6b75a7cd4548))
+
+
+### 📦 CI Improvements
+
+* try deps separate ([7a1d7cd](https://github.com/mxmehl/test/commit/7a1d7cd9839f313803b6107c032a6382a4e7d687))
+
+
+### ⚙️ Chores
+
+* adapt rls config ([366ccb8](https://github.com/mxmehl/test/commit/366ccb87a8ec1369ab8e12e59ffc6537ac5c0dc8))
+* **deps:** adding ty ([#14](https://github.com/mxmehl/test/issues/14)) ([4109144](https://github.com/mxmehl/test/commit/4109144c52c9131b596ebdbca72e5b2920f1eada))
+* **releaser:** try sorting ([7076dd2](https://github.com/mxmehl/test/commit/7076dd299d6de05bd725c39de15db0887c6287ad))
+
 ## [1.0.1](https://github.com/mxmehl/test/compare/v1.0.0...v1.0.1) (2026-04-19)
 
 
