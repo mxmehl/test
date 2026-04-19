@@ -1,5 +1,22 @@
 # Changelog
 
+## [2.1.0](https://github.com/mxmehl/test/compare/v2.0.0...v2.1.0) (2026-04-19)
+
+
+### 🚀 New Features
+
+* directly committed change ([7cbbe9b](https://github.com/mxmehl/test/commit/7cbbe9b28c87e0f50b1dc1b4b8c4fae455423a0c))
+
+
+### 📚 Documentation
+
+* add contribution info ([3d07f3e](https://github.com/mxmehl/test/commit/3d07f3e414c80f63f5f2c2d57c0d2d8266cc5495))
+
+
+### 📦 CI Improvements
+
+* **releaser:** pin version ([a4cfc6e](https://github.com/mxmehl/test/commit/a4cfc6e6d9ce5ef3d1e4384b2c5bd4d9203e08db))
+
 ## [2.0.0](https://github.com/mxmehl/test/compare/v1.0.1...v2.0.0) (2026-04-19)
 
 
