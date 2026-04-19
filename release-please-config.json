@@ -44,6 +44,11 @@
       "hidden": false
     },
     {
+      "type": "chore(deps)",
+      "section": "⚙️ Dependency Upgrades",
+      "hidden": false
+    },
+    {
       "type": "chore",
       "section": "⚙️ Chores",
       "hidden": false
