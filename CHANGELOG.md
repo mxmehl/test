@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/mxmehl/test/compare/v1.0.0...v1.0.1) (2026-04-19)
+
+
+### Bug Fixes
+
+* boop ([#12](https://github.com/mxmehl/test/issues/12)) ([fd68ced](https://github.com/mxmehl/test/commit/fd68ced69494ac91fa7c0694c5cd2392df007711))
+
 ## [1.0.0](https://github.com/mxmehl/test/compare/v0.2.1...v1.0.0) (2026-04-19)
 
 
