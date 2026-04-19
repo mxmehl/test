@@ -3,13 +3,11 @@
   "release-type": "python",
   "packages": {
     ".": {
-      "extra-files": [
-        {
-          "path": "uv.lock",
-          "type": "toml",
-          "jsonpath": "$.package[?(@.name.value=='test')].version"
-        }
-      ]
+      "changelog-path": "CHANGELOG.md",
+      "bump-minor-pre-major": false,
+      "bump-patch-for-minor-pre-major": false,
+      "draft": false,
+      "prerelease": false
     }
   },
   "changelog-sections": [
