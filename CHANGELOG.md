@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/mxmehl/test/compare/v0.2.0...v0.2.1) (2026-04-19)
+
+
+### Bug Fixes
+
+* rls config ([34bdc83](https://github.com/mxmehl/test/commit/34bdc83cb5cbb6092a41da825561935dd79271d5))
+
 ## [0.2.0](https://github.com/mxmehl/test/compare/v0.1.0...v0.2.0) (2026-04-19)
 
 
