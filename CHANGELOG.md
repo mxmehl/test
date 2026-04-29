@@ -1,5 +1,30 @@
 # Changelog
 
+## [2.1.0](https://github.com/mxmehl/test/compare/v2.0.0...v2.1.0) (2026-04-29)
+
+
+### 🚀 New Features
+
+* always update branch ([825e86f](https://github.com/mxmehl/test/commit/825e86f5c76b455b94430b2bee73052b341c7552))
+* directly committed change ([7cbbe9b](https://github.com/mxmehl/test/commit/7cbbe9b28c87e0f50b1dc1b4b8c4fae455423a0c))
+* try to update README version ([a404cbb](https://github.com/mxmehl/test/commit/a404cbb5c3fd71f5307468a1579bf61323db5d4d))
+
+
+### 📚 Documentation
+
+* add contribution info ([3d07f3e](https://github.com/mxmehl/test/commit/3d07f3e414c80f63f5f2c2d57c0d2d8266cc5495))
+* **releaser:** onboarding ([af950ff](https://github.com/mxmehl/test/commit/af950ff15ef0f045cd8e843a70d7ae53e3df68ae))
+
+
+### 🧪 Automated Testing
+
+* what happens when manifest is deleted? ([56aa78e](https://github.com/mxmehl/test/commit/56aa78e1231ee23effc3c4effd57d01640e599b1))
+
+
+### 📦 CI Improvements
+
+* **releaser:** pin version ([a4cfc6e](https://github.com/mxmehl/test/commit/a4cfc6e6d9ce5ef3d1e4384b2c5bd4d9203e08db))
+
 ## [2.0.0](https://github.com/mxmehl/test/compare/v1.0.1...v2.0.0) (2026-04-19)
 
 
