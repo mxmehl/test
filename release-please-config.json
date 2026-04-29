@@ -16,6 +16,7 @@
       ]
     }
   },
+  "always-update": true,
   "changelog-sections": [
     {
       "type": "feat",
