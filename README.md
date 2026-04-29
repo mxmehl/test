@@ -27,7 +27,7 @@
 <!-- x-release-please-start-version -->
 ```yaml
 - name: Check vulnerabilities of latest release/tag
-  uses: mxmehl/latest-release-vulnerability-status@v2.0.0
+  uses: mxmehl/latest-release-vulnerability-status@v2.1.0
 ```
 <!-- x-release-please-end -->
 
@@ -58,7 +58,7 @@ jobs:
     if: github.repository_owner == 'YOUR_GITHUB_USERNAME' # <-- change value!
     steps:
       - name: Check vulnerabilities of latest release/tag
-        uses: mxmehl/latest-release-vulnerability-status@v2.0.0
+        uses: mxmehl/latest-release-vulnerability-status@v2.1.0
         # with:
         #   repository: mxmehl/leaky-poetry-repo  # Optional: username/reponame
         #   tag-source: git-tag  # Optional, defaults to release-api
