@@ -8,6 +8,10 @@
           "path": "uv.lock",
           "type": "toml",
           "jsonpath": "$.package[?(@.name.value=='test')].version"
+        },
+        {
+          "path": "README.md",
+          "type": "generic"
         }
       ]
     }
